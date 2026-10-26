@@ -166,21 +166,7 @@ The dashboard makes it easier to understand:
 * Patterns and variations in the data
 * Useful information for further analysis
 
-## 🚀 How to Use
+## 👨‍💻 Author
+**Samrabinson P**
 
-1. Open `PowerBITask4.pbix` in Microsoft Power BI Desktop.
-2. Go to the dashboard page.
-3. Review the KPI cards and available visualizations.
-4. Use the slicers and filters to select the required data.
-5. Choose different categories or time periods for comparison.
-6. Interact with the charts to explore the data.
-7. Use the displayed information to understand the major trends and metrics.
-
-## 📁 Project Files
-
-* `PowerBITask4.pbix` – Power BI dashboard file
-* `README.md` – Project documentation
-
-## 📌 Conclusion
-
-Power BI Task 4 demonstrates how Power BI can be used to transform a dataset into an interactive analytical dashboard. The project covers data importing, cleaning, transformation, DAX calculations, data modeling, and visualization. The completed dashboard provides an organized way to explore the data, compare values, identify trends, and understand important performance indicators.
+BCA Student | Aspiring Data Analyst & Full Stack Developer
