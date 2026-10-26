@@ -66,16 +66,9 @@ A relationship connects the stock data with the Date table to support date-based
 - Designing KPI cards, line charts, tables, and slicers.
 - Presenting financial data through interactive visualizations.
 
-## 🚀 How to Use
-1. Download or clone this repository.
-2. Open `Task3_Pbi.pbix` using Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the dashboard using the year and month slicers.
-
 ## 👨‍💻 Author
-**Sam Rabinson P**
+**Samrabinson P**
 
 BCA Student | Aspiring Data Analyst & Full Stack Developer
 
 ---
-⭐ If you find this project useful, consider starring this repository.
