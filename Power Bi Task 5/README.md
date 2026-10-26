@@ -111,17 +111,8 @@ The project uses separate dimension and fact tables to organize the healthcare i
 
 This approach improves the organization and usability of the dataset for Power BI reporting.
 
-## How to Open the Project
+## 👨‍💻 Author
+**Samrabinson P**
 
-1. Install **Microsoft Power BI Desktop**.
-2. Download or clone this project.
-3. Open `Task5_Pbi.pbix` using Power BI Desktop.
-4. Review the data model and report.
-5. Refresh the data if required.
-6. Use the available Power BI features to filter and analyze the healthcare data.
+BCA Student | Aspiring Data Analyst & Full Stack Developer
 
-## Conclusion
-
-The **Healthcare Data Analysis Dashboard** project demonstrates how Power BI can be used to organize healthcare information into a structured data model. The project contains patient, admission, healthcare, and billing-related tables and uses a dimensional modeling approach to support effective data analysis and reporting.
-
-This project provides a foundation for creating interactive healthcare dashboards and deriving meaningful insights from healthcare and billing data.
